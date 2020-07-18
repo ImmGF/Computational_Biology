@@ -1,0 +1,1 @@
+Write a program that computes the optimal local alignment for DNA sequences for the different possible protein translations (i.e. assuming a standard codon table and a BLOSUM60 substitution matrix) considering three different reading frames in both sequences. For simplicity, let's assume that insertions and deletions should only occur in "triples" of the nucleotides.
